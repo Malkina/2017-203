@@ -1,11 +1,7 @@
 #pragma once
 #include "lab.h"
 
-<<<<<<< HEAD
 class malkinaaa : public lab
-=======
-class ivanovii : public lab
->>>>>>> db22a158aa15833753105e821fd86ad1a9cf7580
 {
   /**
    * Метод Гаусса
@@ -35,13 +31,13 @@ class ivanovii : public lab
    * Один из градиентных методов
    */
   virtual void lab7();
-<<<<<<< HEAD
+
 
   virtual void lab8();
 
-=======
-  
+
+
   virtual void lab8();
-  
->>>>>>> db22a158aa15833753105e821fd86ad1a9cf7580
+
+
 };
