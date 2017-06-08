@@ -31,6 +31,7 @@ class malkinaaa : public lab
    * Один из градиентных методов
    */
   virtual void lab7();
+<<<<<<< HEAD
 
 
   virtual void lab8();
@@ -40,4 +41,9 @@ class malkinaaa : public lab
   virtual void lab8();
 
 
+=======
+
+  virtual void lab8();
+
+>>>>>>> 069048e47b42ef859803cc724b7d3901de298439
 };
